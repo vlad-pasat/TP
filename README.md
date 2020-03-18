@@ -1,1 +1,1 @@
-# TP
+Temele pentu laboratorul de TP.
